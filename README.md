@@ -16,7 +16,7 @@ package vignettes and documentation files
 * Collected, cleaned, and analyzed 74,192 rows of raw Excel data in R by subsetting rows and columns
 and removing outliers from data
 * Used kriging to construct a geostatistical model that estimates ozone pollution levels in unsampled
-locations with $R^2 = 0.76$
+locations with R-squared = 0.76
 * Integrated Google Cloud API to prepare data for analysis
 * Allows user to specify a city in California, and the app will visualize the city’s location on a heat map
 and estimate the pollution and risk level in that city
