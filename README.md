@@ -1,4 +1,4 @@
-# Alexander Shih's Project Portfolio
+# Projects
 
 ## Precision Factor Analysis R Package (ongoing)
 * Working with Abhra Sarkar and Noirrit Chandra on creating and documenting an R package that
