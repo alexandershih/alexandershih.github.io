@@ -22,6 +22,5 @@ locations with R-squared = 0.76
 and estimate the pollution and risk level in that city
 
 ## [Palmer Penguins Analysis](https://github.com/rainbowschubert/Palmer-Penguins-Analysis)
-* Used machine learning tools in Python to conduct statistical analysis of Palmer penguins dataset
-* Created a logistic regression model that predicts penguin species with 96-97% accuracy based on
-flipper length and culmen length
+This is an analysis of the famous Palmer penguins dataset. In the report, we use Python (particularly the SciPy software stack) to look for patterns in the data and construct a machine learning model that predicts a penguin's species based on other factors (flipper length, height, weight, etc.). Our logistic regression model predicts penguin species with 96-97% accuracy based on
+flipper length and culmen length.
