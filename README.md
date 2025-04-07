@@ -1,7 +1,6 @@
 # Alexander Shih's Project Portfolio
 
 ## Precision Factor Analysis R Package (ongoing)
-
 * Working with Abhra Sarkar and Noirrit Chandra on creating and documenting an R package that
 implements the graphical model estimation methods developed in their paper:
 https://arxiv.org/abs/2107.11316
@@ -12,9 +11,7 @@ https://arxiv.org/abs/2107.11316
 * Performed example statistical analysis on public domain genomic data and summarized results in
 package vignettes and documentation files
 
-## Pollution Heat Map
-
-* Web app link: https://rainbowschubert.shinyapps.io/Pollution_Heat_Map/
+## [Pollution Heat Map](https://rainbowschubert.shinyapps.io/Pollution_Heat_Map/)
 * Web app with interactive raster heat map of estimated pollution levels in California built in R Shiny.
 * Collected, cleaned, and analyzed 74,192 rows of raw Excel data in R by subsetting rows and columns
 and removing outliers from data
@@ -24,9 +21,7 @@ locations with $R^2 = 0.76$
 * Allows user to specify a city in California, and the app will visualize the city’s location on a heat map
 and estimate the pollution and risk level in that city
 
-## Palmer Penguins Analysis
-
-* Report link: https://github.com/rainbowschubert/Palmer-Penguins-Analysis
+## [Palmer Penguins Analysis](https://github.com/rainbowschubert/Palmer-Penguins-Analysis)
 * Used machine learning tools in Python to conduct statistical analysis of Palmer penguins dataset
 * Created a logistic regression model that predicts penguin species with 96-97% accuracy based on
 flipper length and culmen length
