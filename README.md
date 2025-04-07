@@ -1,7 +1,7 @@
 # Projects
 
 ## Precision Factor Analysis R Package (ongoing)
-* Working with Abhra Sarkar and Noirrit Chandra on creating and documenting an R package that
+* Working under the supervision of Dr. Abhra Sarkar and Dr. Noirrit Chandra on creating and documenting an R package that
 implements the graphical model estimation methods developed in their paper:
 https://arxiv.org/abs/2107.11316
 * Visualizes data with R packages GGally and ggplot2
