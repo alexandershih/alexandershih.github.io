@@ -25,6 +25,7 @@ locations with R-squared = 0.76
 and estimate the pollution and risk level in that city
 
 ![](/images/pollution_heat_map.png)
+<iframe width="100%" height="600px" src="https://rainbowschubert.shinyapps.io/Pollution_Heat_Map/"> </iframe>
 
 ## [Trading Strategies](https://github.com/alexandershih/Trading-Strategies)
 We develop a model that uses only the past stream of daily prices to date to determine each day if the trader should buy, hold, or sell their assets in their portfolio consisting of cash, gold, and bitcoin. Our model uses the empirical distribution function combined with a damping factor to calculate the percentage of current assets to sell and percentage of current cash to invest. We start with $1000 on 9/11/2016 and end with $71,562 on 9/10/2021.
