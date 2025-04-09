@@ -14,7 +14,7 @@ package vignettes and documentation files
 ![](/images/PrecFact_precision_matrices.png)
 ![](/images/PrecFact_recovered_CDF.png)
 
-## [Pollution Heat Map](https://rainbowschubert.shinyapps.io/Pollution_Heat_Map/)
+## Pollution Heat Map
 * Web app with interactive raster heat map of estimated pollution levels in California built in R Shiny.
 * Collected, cleaned, and analyzed 74,192 rows of raw Excel data in R by subsetting rows and columns
 and removing outliers from data
